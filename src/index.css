@@ -15,3 +15,7 @@ code {
 .m-top_xx-large {
   margin-top: 10rem;
 }
+
+.accordion .accordion-item .panel {
+  overflow-y: auto;
+}
